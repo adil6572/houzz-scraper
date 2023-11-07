@@ -13,7 +13,7 @@
 
 Welcome to the **Web Scraping with Python: Houzz.com Scraper** project. This repository contains a Python web scraping script that extracts data from business websites on [www.houzz.com](https://www.houzz.com). The scraper is built on Scrapy and BeautifulSoup and is designed to collect information from business sites on Houzz.com, allowing you to store the data in a CSV file for further analysis or usage.
 
-![Houzz.com](https://yourimageurl.com/here)
+![Houzz.com](https://github.com/adil6572/houzz-scraper/blob/main/Houzz.png)
 
 ## Output
 
